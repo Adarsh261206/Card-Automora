@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" rx="224" fill="#050505"/>
+  <g transform="translate(80 115) scale(0.84)" shape-rendering="geometricPrecision">
+    <path fill="#7ED321" d="M58 910 518 35 704 421 637 583 518 333 202 910Z"/>
+    <path fill="#7ED321" d="M295 910 520 510 590 646 440 910Z"/>
+    <path fill="#FFFFFF" d="M510 910 622 719 735 910Z"/>
+    <path fill="#FFFFFF" d="M660 630 736 480 970 910 817 910Z"/>
+  </g>
+</svg>
